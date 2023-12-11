@@ -1,0 +1,32 @@
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\bin\Debug\Learning Game.exe.config
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\bin\Debug\Learning Game.exe
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\bin\Debug\Learning Game.pdb
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.AssemblyReference.cache
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning_Game.Properties.Resources.resources
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.GenerateResource.cache
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.CoreCompileInputs.cache
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.exe
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.pdb
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning_Game.LearningGameForm1.resources
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_select.resources
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_math.resources
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_puzzle.resources
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\bin\Debug\Guna.UI2.dll
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.CopyComplete
+C:\Users\IceZero\source\repos\Learning Game\Learning Game\obj\Debug\WinFormsApp2.frm_color.resources
+E:\tears\Learning Game\Learning Game\bin\Debug\Learning Game.exe.config
+E:\tears\Learning Game\Learning Game\bin\Debug\Learning Game.exe
+E:\tears\Learning Game\Learning Game\bin\Debug\Learning Game.pdb
+E:\tears\Learning Game\Learning Game\bin\Debug\Guna.UI2.dll
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.AssemblyReference.cache
+E:\tears\Learning Game\Learning Game\obj\Debug\WinFormsApp2.frm_color.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning_Game.LearningGameForm1.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_math.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning_Game.Properties.Resources.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_puzzle.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning_Game.frm_select.resources
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.GenerateResource.cache
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.CoreCompileInputs.cache
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.csproj.CopyComplete
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.exe
+E:\tears\Learning Game\Learning Game\obj\Debug\Learning Game.pdb
